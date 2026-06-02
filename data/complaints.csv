@@ -1,0 +1,151 @@
+complaint_id,complaint_text,customer_tenure_months,previous_complaints,order_value,image_category,risk_label,human_review_required
+100,Need invoice copy,38,0,684,normal,low,False
+101,Delivery was slightly delayed,31,1,749,normal,low,False
+102,Need invoice copy,25,1,2685,normal,low,False
+103,Delivery was slightly delayed,39,1,968,normal,low,False
+104,Delivery was slightly delayed,30,1,2746,normal,low,False
+105,Package arrived late,16,0,1608,normal,low,False
+106,Need invoice copy,22,0,789,normal,low,False
+107,Need invoice copy,25,0,2760,normal,low,False
+108,Need invoice copy,35,1,657,normal,low,False
+109,Need invoice copy,47,0,782,normal,low,False
+110,Need invoice copy,28,0,2541,normal,low,False
+111,Delivery was slightly delayed,35,0,1206,normal,low,False
+112,Need invoice copy,38,1,2602,normal,low,False
+113,Delivery was slightly delayed,12,0,978,normal,low,False
+114,Delivery was slightly delayed,39,1,918,normal,low,False
+115,Delivery was slightly delayed,24,1,1591,normal,low,False
+116,Need invoice copy,39,1,1830,normal,low,False
+117,Need invoice copy,36,1,763,normal,low,False
+118,Need invoice copy,41,0,1226,normal,low,False
+119,Delivery was slightly delayed,32,0,2418,normal,low,False
+120,Delivery was slightly delayed,13,0,1531,normal,low,False
+121,Package arrived late,30,1,1924,normal,low,False
+122,Delivery was slightly delayed,38,0,574,normal,low,False
+123,Need invoice copy,15,0,2646,normal,low,False
+124,Package arrived late,38,1,2631,normal,low,False
+125,Package arrived late,32,1,1636,normal,low,False
+126,Delivery was slightly delayed,12,0,2351,normal,low,False
+127,Delivery was slightly delayed,18,0,737,normal,low,False
+128,Need invoice copy,25,0,2465,normal,low,False
+129,Delivery was slightly delayed,35,0,2478,normal,low,False
+130,Need invoice copy,13,0,2036,normal,low,False
+131,Delivery was slightly delayed,28,0,1604,normal,low,False
+132,Package arrived late,37,0,2567,normal,low,False
+133,Delivery was slightly delayed,35,1,2423,normal,low,False
+134,Package arrived late,23,1,1770,normal,low,False
+135,Delivery was slightly delayed,45,0,2758,normal,low,False
+136,Need invoice copy,46,1,2361,normal,low,False
+137,Need invoice copy,38,1,1247,normal,low,False
+138,Package arrived late,41,1,2866,normal,low,False
+139,Package arrived late,26,0,2752,normal,low,False
+140,Package arrived late,47,0,1527,normal,low,False
+141,Need invoice copy,25,1,1362,normal,low,False
+142,Delivery was slightly delayed,35,1,1490,normal,low,False
+143,Need invoice copy,13,1,749,normal,low,False
+144,Need invoice copy,28,0,2478,normal,low,False
+145,Delivery was slightly delayed,24,0,2016,normal,low,False
+146,Package arrived late,26,1,1067,normal,low,False
+147,Delivery was slightly delayed,21,1,1911,normal,low,False
+148,Package arrived late,33,0,2200,normal,low,False
+149,Delivery was slightly delayed,48,0,2126,normal,low,False
+150,Wrong color item received,10,3,7937,normal,medium,True
+151,Wrong color item received,24,2,4284,normal,medium,True
+152,Product quality is disappointing,14,3,3896,normal,medium,True
+153,Support response is slow,21,3,6421,normal,medium,True
+154,Product quality is disappointing,15,1,5330,normal,medium,True
+155,Product quality is disappointing,18,3,2502,normal,medium,True
+156,Support response is slow,6,1,7613,normal,medium,True
+157,Support response is slow,24,2,5845,normal,medium,True
+158,Support response is slow,23,2,4816,normal,medium,True
+159,Wrong color item received,13,1,7752,normal,medium,True
+160,Wrong color item received,12,3,4940,normal,medium,True
+161,Product quality is disappointing,19,1,2779,normal,medium,True
+162,Wrong color item received,13,1,7184,normal,medium,True
+163,Support response is slow,11,1,7519,normal,medium,True
+164,Support response is slow,7,2,6283,normal,medium,True
+165,Support response is slow,18,3,4682,normal,medium,True
+166,Wrong color item received,24,1,5695,normal,medium,True
+167,Product quality is disappointing,21,1,3481,normal,medium,True
+168,Product quality is disappointing,21,3,5669,normal,medium,True
+169,Product quality is disappointing,19,2,6389,normal,medium,True
+170,Support response is slow,19,1,4847,normal,medium,True
+171,Support response is slow,21,1,2022,normal,medium,True
+172,Support response is slow,12,2,7341,normal,medium,True
+173,Support response is slow,15,1,3160,normal,medium,True
+174,Support response is slow,15,1,6017,normal,medium,True
+175,Product quality is disappointing,11,3,7252,normal,medium,True
+176,Wrong color item received,8,3,7456,normal,medium,True
+177,Wrong color item received,23,3,4014,normal,medium,True
+178,Wrong color item received,10,3,6992,normal,medium,True
+179,Product quality is disappointing,17,3,3557,normal,medium,True
+180,Support response is slow,24,2,3119,normal,medium,True
+181,Support response is slow,15,2,7156,normal,medium,True
+182,Product quality is disappointing,7,2,4160,normal,medium,True
+183,Support response is slow,13,2,7446,normal,medium,True
+184,Wrong color item received,21,2,2134,normal,medium,True
+185,Support response is slow,7,2,2341,normal,medium,True
+186,Support response is slow,15,3,7854,normal,medium,True
+187,Product quality is disappointing,20,3,5861,normal,medium,True
+188,Product quality is disappointing,18,1,3808,normal,medium,True
+189,Product quality is disappointing,11,1,5930,normal,medium,True
+190,Product quality is disappointing,18,3,3780,normal,medium,True
+191,Support response is slow,23,1,6473,normal,medium,True
+192,Product quality is disappointing,23,3,2636,normal,medium,True
+193,Wrong color item received,7,3,7421,normal,medium,True
+194,Product quality is disappointing,18,2,5977,normal,medium,True
+195,Support response is slow,22,2,3460,normal,medium,True
+196,Wrong color item received,6,1,4281,normal,medium,True
+197,Support response is slow,12,1,5201,normal,medium,True
+198,Wrong color item received,8,3,3510,normal,medium,True
+199,Wrong color item received,24,3,5536,normal,medium,True
+200,I want immediate refund,2,6,8253,damaged,high,True
+201,Worst experience ever,12,5,18551,damaged,high,True
+202,I want immediate refund,1,7,8499,damaged,high,True
+203,Worst experience ever,6,3,13361,damaged,high,True
+204,I want immediate refund,11,3,13102,damaged,high,True
+205,Product arrived broken,8,5,8322,damaged,high,True
+206,Product arrived broken,9,3,7918,damaged,high,True
+207,Worst experience ever,6,5,7304,damaged,high,True
+208,I want immediate refund,1,6,18333,damaged,high,True
+209,I want immediate refund,9,3,12213,damaged,high,True
+210,Product arrived broken,6,6,11038,damaged,high,True
+211,I want immediate refund,11,3,7321,damaged,high,True
+212,Product arrived broken,8,3,11899,damaged,high,True
+213,Nobody replied to my complaints,7,6,10322,damaged,high,True
+214,I want immediate refund,1,6,15915,damaged,high,True
+215,I want immediate refund,5,4,12770,damaged,high,True
+216,I want immediate refund,11,4,10186,damaged,high,True
+217,I want immediate refund,9,4,16792,damaged,high,True
+218,Worst experience ever,6,6,19218,damaged,high,True
+219,I want immediate refund,9,5,6523,damaged,high,True
+220,Product arrived broken,12,7,13318,damaged,high,True
+221,Product arrived broken,5,6,17760,damaged,high,True
+222,Worst experience ever,8,4,18768,damaged,high,True
+223,Nobody replied to my complaints,10,3,8028,damaged,high,True
+224,Product arrived broken,2,7,12325,damaged,high,True
+225,Nobody replied to my complaints,6,6,5307,damaged,high,True
+226,Nobody replied to my complaints,12,4,17067,damaged,high,True
+227,Nobody replied to my complaints,3,4,11885,damaged,high,True
+228,Product arrived broken,2,7,19645,damaged,high,True
+229,I want immediate refund,1,3,11884,damaged,high,True
+230,Product arrived broken,5,3,15805,damaged,high,True
+231,Product arrived broken,3,6,6911,damaged,high,True
+232,Product arrived broken,12,3,13816,damaged,high,True
+233,Nobody replied to my complaints,6,4,5969,damaged,high,True
+234,Nobody replied to my complaints,6,3,18742,damaged,high,True
+235,Nobody replied to my complaints,2,3,17956,damaged,high,True
+236,Nobody replied to my complaints,6,6,14322,damaged,high,True
+237,I want immediate refund,12,4,13897,damaged,high,True
+238,I want immediate refund,3,4,18765,damaged,high,True
+239,Nobody replied to my complaints,4,3,15868,damaged,high,True
+240,I want immediate refund,10,6,15107,damaged,high,True
+241,Product arrived broken,6,6,11458,damaged,high,True
+242,Worst experience ever,9,3,16173,damaged,high,True
+243,I want immediate refund,2,7,10021,damaged,high,True
+244,Nobody replied to my complaints,7,4,19288,damaged,high,True
+245,Worst experience ever,11,3,13950,damaged,high,True
+246,I want immediate refund,12,7,15426,damaged,high,True
+247,I want immediate refund,8,3,19180,damaged,high,True
+248,Worst experience ever,12,6,7707,damaged,high,True
+249,Worst experience ever,6,5,6197,damaged,high,True
