@@ -100,3 +100,93 @@ Human review is required when:
 * Different AI models produce conflicting predictions
 
 Human oversight is important to ensure fairness, accuracy, and responsible business decisions.
+
+## Optional Components Status
+
+### FastAPI API
+
+Implemented.
+
+File:
+
+```text
+app.py
+```
+
+The Hybrid AI system is exposed through a local FastAPI service with the following endpoints:
+
+* `GET /` – Health Check
+* `POST /predict` – Hybrid AI prediction endpoint
+
+The API was successfully tested locally using Uvicorn and Swagger UI.
+
+---
+
+### Docker Containerization
+
+Implemented.
+
+Files:
+
+```text
+Dockerfile
+requirements-docker.txt
+```
+
+The application was successfully containerized using Docker and tested locally.
+
+Docker validation completed:
+
+* Docker image built successfully
+* Container started successfully
+* FastAPI endpoints accessible through Docker
+* Swagger UI available at:
+
+```text
+http://localhost:8000/docs
+```
+
+---
+
+### AWS Hosting
+
+Not completed as part of the final submission.
+
+Current Status:
+
+```text
+Work In Progress (WIP)
+```
+
+Progress completed:
+
+* FastAPI application developed
+* Docker containerization completed
+* GitHub repository created and configured
+
+Planned deployment target:
+
+```text
+AWS Lambda (Container-based deployment)
+```
+
+Future work includes:
+
+* Deploying the Dockerized application to AWS
+* Configuring environment variables securely
+* Exposing a public API endpoint
+* Performance and latency testing in the cloud
+
+---
+
+### Environment Variables
+
+Sensitive credentials are not hard-coded in the source code.
+
+The following environment variable is required:
+
+```text
+GEMINI_API_KEY
+```
+
+This key must be provided through environment configuration during local execution or cloud deployment.
