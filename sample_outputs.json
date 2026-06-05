@@ -1,0 +1,47 @@
+[
+{
+    "model_outputs": {
+    "classical_score": 0.2,
+    "cnn_score": 0.2,
+    "rnn_score": 0.6,
+    "final_score": 0.32,
+    "risk_level": "low"
+    },
+    "llm_explanation": {
+    "classical_score": 0.2,
+    "cnn_score": 0.2,
+    "rnn_score": 0.6,
+    "final_score": 0.32,
+    "risk_level": "low",
+    "complaint_text": "Delivery was slightly delayed",
+    "summary": "Customer reported a minor delivery delay.",
+    "recommended_action": "auto_reply",
+    "reason": "The complaint indicates a minor service disruption (slight delivery delay) with a low associated risk level and a low final score, suitable for an automated response.",
+    "human_review_required": false,
+    "risk_notes": [
+        "Low risk level identified.",
+        "Final calculated risk score is 0.32.",
+        "Complaint text indicates a minor issue: 'Delivery was slightly delayed'."
+    ]
+    }
+},
+{
+    "model_outputs": {
+    "classical_score": 0.9,
+    "cnn_score": 0.2,
+    "rnn_score": 0.6,
+    "final_score": 0.6,
+    "risk_level": "medium"
+    },
+    "llm_explanation": {
+    "summary": "Customer is requesting an update on their order's delivery status.",
+    "recommended_action": "auto_reply",
+    "reason": "The complaint is a routine inquiry about order status, which can often be resolved efficiently through an automated response providing tracking information or estimated delivery dates.",
+    "human_review_required": false,
+    "risk_notes": [
+        "No immediate high-risk indicators detected based on complaint text.",
+        "The nature of the inquiry is common and typically low complexity."
+    ]
+    }
+}
+]
